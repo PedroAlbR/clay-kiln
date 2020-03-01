@@ -31,9 +31,6 @@ build/Release
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
 
-# compiled scripts and styles (generated on postinstall)
-dist
-
 # docusaurus
 lib/core/metadata.js
 lib/core/MetadataBlog.js
